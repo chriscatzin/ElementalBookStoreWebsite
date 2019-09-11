@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/christophercatzin/BookStore/BookStoreWebsite/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1197399180.index
+1176277869.index
+3687314350.index
+2136760305.index
+3645717792.index
+3406283799.index

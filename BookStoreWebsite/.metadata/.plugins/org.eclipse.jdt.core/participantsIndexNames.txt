@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/Users/christophercatzin/Desktop/BookStore/BookStoreWebsite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3533979829.index
+/BookStoreWebsite/src
+/Users/christophercatzin/BookStore/BookStoreWebsite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3533979829.index
+/BookStoreWebsite/src
